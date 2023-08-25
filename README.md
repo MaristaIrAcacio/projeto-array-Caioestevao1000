@@ -6,12 +6,12 @@ Atividade proposta pelo Professor Leonardo de Programação Web - Colégio Socia
 
 ## Projeto
 ![HTML CSS e JavaScript](https://user-images.githubusercontent.com/6599252/169671524-20a26724-5e54-4303-b63e-e3b2cc06c0fc.png)
-Página principal do projeto
+Página principal
+O projeto foi construido com o objetivo de estudar HTML, CSS e JS.
 
 ## JavaScript
-
 - :heavy_check_mark: [Arrow Functions](#arrow-functions-em-javascript)
-  
+
 ## Links
 
 - Design do projeto no Figma: [Link](https://www.figma.com/file/oDQ3sehgATgbsjd7T914Ku/Credit-Cards?node-id=0%3A1)
