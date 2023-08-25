@@ -19,4 +19,4 @@ Construindo aplicações com as ferramentas HTML, CSS e JavaScript.
 - Site em produção: [Link](https://card-custom-html.vercel.app)
 
 ##Projeto 
-- Projeto criado por: [link](https://github.com/jaimeneeves)
+- Projeto criado por: Jaime Neves  [github](https://github.com/jaimeneeves)
